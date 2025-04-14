@@ -1,0 +1,47 @@
+<infomation>
+    <id1>
+        <name>aimal</name>
+        <city>karachi</city>
+        <state>hawaii</state>
+        <country>africa</country>
+        <campany>ovlo</campany>
+        <fav_number>7</fav_number>
+
+    </id1>
+    <id2>
+        <name>sikander</name>
+        <city>blanco</city>
+        <state>new jarsey</state>
+        <country>china</country>
+        <campany>astry</campany>
+        <fav_number>6</fav_number>
+
+    </id2>
+    <id3>
+        <name>kashmala</name>
+        <city>seaul</city>
+        <state>busan</state>
+        <country>south korea</country>
+        <campany>microsoft</campany>
+        <fav_number>4</fav_number>
+
+    </id3>
+    <id4>
+        <name>lisa</name>
+        <city>bhangkok</city>
+        <state>arizona</state>
+        <country>thailand</country>
+        <campany>apple</campany>
+        <fav_number>5</fav_number>
+
+    </id4>
+    <id5>
+        <name>jennie</name>
+        <city>glendae</city>
+        <state>illnios</state>
+        <country>new zealand</country>
+        <campany>yg entartainment</campany>
+        <fav_number>9</fav_number>
+
+    </id5>
+</infomation>

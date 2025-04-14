@@ -1,0 +1,33 @@
+<bio_data>
+    <actor1>
+<n>sikandar</n>
+<income>268cr </income>
+</actor1>
+<actor2>
+<s>salman khan</s>
+
+<movies>flop</movies>
+</actor2>
+<actor3>
+
+<fl>pooja</fl>
+<industry>bollywood</industry>
+</actor3>
+
+<movie1>
+    <n>titanic</n>]
+    <actor>leonacdio caprio</actor>
+    <earn>$2.2billion</earn>
+    <status>superhit</status>
+    <in>hollywood</in>
+    <actress>kate winslet</actress>
+</movie1>
+<movie2>
+    <n>terminator1</n>]
+    <actor>arnold</actor>
+    <earn>$1.6 million</earn>
+    <status>hit</status>
+    <in>hollywood</in>
+    <actress>Linda Hamilton</actress>
+</movie2>
+</bio_data>
