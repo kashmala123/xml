@@ -1,33 +1,19 @@
-<bio_data>
-    <actor1>
-<n>sikandar</n>
-<income>268cr </income>
-</actor1>
-<actor2>
-<s>salman khan</s>
-
-<movies>flop</movies>
-</actor2>
-<actor3>
-
-<fl>pooja</fl>
-<industry>bollywood</industry>
-</actor3>
-
-<movie1>
-    <n>titanic</n>]
-    <actor>leonacdio caprio</actor>
-    <earn>$2.2billion</earn>
-    <status>superhit</status>
-    <in>hollywood</in>
-    <actress>kate winslet</actress>
-</movie1>
-<movie2>
-    <n>terminator1</n>]
-    <actor>arnold</actor>
-    <earn>$1.6 million</earn>
-    <status>hit</status>
-    <in>hollywood</in>
-    <actress>Linda Hamilton</actress>
-</movie2>
-</bio_data>
+<FoodItem>
+    <a:Food id="1" quantity="5kg" available='yes' xmlns:a='https://www.google.co.uk/'>
+        <a:Name>Biryani</a:Name>
+        <a:Name>250</a:Name>
+        <a:Cat>Desi</a:Cat>
+    </a:Food>
+    <b:Food id="2" quantity='1' available='no' xmlns:b='https://www.google.co.uk/'>
+        <b:Name>Pizza</b:Name>
+        <b:Name >450</b:Name>
+        <b:Name>Italian</b:Name>
+    </b:Food>
+    <c:Food id="3" quantity='3' available='yes' xmlns:c='https://www.google.co.uk/'>
+        <c:Name>Burger</c:Name>
+        <c:Price>350</c:Price>
+        <c:Cat>Fastfood</c:Cat>
+    </c:Food>
+    <![CDATA[
+    <lala>HELOOOO</lala>]]>
+</FoodItem>

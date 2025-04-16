@@ -1,0 +1,15 @@
+<!DOCTYPE Product [
+<!ELEMENT Product ( pro_name,price, material,quantity)>
+<!ELEMENT pro_name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT material (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+
+]>
+
+<Product>
+    <pro_name>T-Shirt</pro_name>
+    <price>300</price>
+    <material>Jersy</material>
+    <quantity>34</quantity>
+</Product>
